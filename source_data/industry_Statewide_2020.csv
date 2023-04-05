@@ -1,0 +1,117 @@
+Industry Sector,NAICS Sector,Average Employment,Estblishments,Payroll,Average Monthly Wage
+"Agriculture, Forestry, Fishing & Hunting",11,4658,457,181089010,3240
+Crop Production,111,988,110,29888721,2522
+Animal Production and Aquaculture,112,2669,227,102689744,3206
+Forestry and Logging,113,34,6,1413075,3438
+"Fishing, Hunting and Trapping",114,180,10,16556869,7687
+Support Activities for Agriculture and Forestry,115,787,104,30540601,3235
+Mining,21,8660,557,737158365,7094
+Oil and Gas Extraction,211,910,52,121238317,11109
+Mining (except Oil and Gas),212,4904,112,390559944,6637
+Support Activities for Mining,213,2847,393,225360104,6597
+Utilities,22,6095,393,556552043,7610
+Utilities,221,6095,393,556552043,7610
+Construction,23,116661,13012,6697376794,4784
+Construction of Buildings,236,23731,3596,1406665145,4940
+Heavy and Civil Engineering Construction,237,13307,725,975187969,6107
+Specialty Trade Contractors,238,79623,8692,4315523680,4517
+Manufacturing (31-33),31,136413,4622,8399961354,5131
+Food Manufacturing,311,18555,441,916631339,4117
+Beverage and Tobacco Product Manufacturing,312,1162,79,52494551,3765
+Textile Mills,313,425,24,13511110,2652
+Textile Product Mills,314,827,72,33178969,3345
+Apparel Manufacturing,315,1312,78,34865493,2214
+Leather and Allied Product Manufacturing,316,220,23,10486439,3972
+Wood Product Manufacturing,321,2676,193,116709657,3635
+Paper Manufacturing,322,2733,35,188739164,5755
+Printing and Related Support Activities,323,4637,283,213333720,3834
+Petroleum and Coal Products Manufacturing,324,1707,35,210254021,10264
+Chemical Manufacturing,325,9959,302,614929829,5146
+Plastics and Rubber Products Manufacturing,326,6788,184,356662406,4378
+Nonmetallic Mineral Product Manufacturing,327,4964,204,296315898,4974
+Primary Metal Manufacturing,331,3759,68,281862471,6249
+Fabricated Metal Product Manufacturing,332,14845,749,834186371,4683
+Machinery Manufacturing,333,6082,298,379437381,5199
+Computer and Electronic Product Manufacturing,334,13507,329,1208807759,7458
+"Electrical Equipment, Appliance, and Component Manufacturing",335,1861,76,137803577,6172
+Transportation Equipment Manufacturing,336,14198,192,1016068126,5964
+Furniture and Related Product Manufacturing,337,6506,375,303962901,3894
+Miscellaneous Manufacturing,339,19693,585,1179720172,4992
+Wholesale Trade,42,53117,6411,3971315400,6231
+"Merchant Wholesalers, Durable Goods",423,30598,3702,2336995267,6365
+"Merchant Wholesalers, Nondurable Goods",424,18065,1597,1230290579,5675
+Wholesale Trade Agents and Brokers,425,4454,1112,404029554,7560
+Retail Trade (44 & 45),44,171296,11028,6586468576,3204
+Motor Vehicle and Parts Dealers,441,23610,1312,1285440317,4537
+Furniture and Home Furnishings Stores,442,6200,510,258586533,3476
+Electronics and Appliance Stores,443,4410,442,210146697,3971
+Building Material and Garden Equipment and Supplies Dealers,444,15039,646,565848154,3135
+Food and Beverage Retailers,445,26267,780,701794107,2226
+Health and Personal Care Stores,446,7764,836,309309585,3320
+Gasoline Stations,447,10002,817,274757321,2289
+Clothing and Clothing Accessories Stores,448,9740,1105,237017902,2028
+Sporting Goods/Hobby/Book/Music Stores,451,8863,678,225721876,2122
+General Merchandise Stores,452,31764,387,883766533,2319
+Miscellaneous Store Retailers,453,8283,936,310832735,3127
+Nonstore Retailers,454,19355,2581,1323246816,5697
+Transportation and Warehousing (48 & 49),48,75335,3218,4051314232,4481
+Air Transportation,481,6602,77,688745783,8694
+Rail Transportation,482,1082,25,82014668,6318
+Truck Transportation,484,21364,1731,1131620621,4414
+Transit and Ground Passenger Transportation,485,7069,168,290016274,3419
+Pipeline Transportation,486,272,23,30122629,9237
+Scenic and Sightseeing Transportation,487,188,22,4861732,2152
+Support Activities for Transportation,488,6157,517,359450500,4865
+Postal Service,491,5793,216,334380298,4810
+Couriers and Messengers,492,14873,205,583181363,3268
+Warehousing and Storage,493,11914,231,545704073,3817
+Information,51,15674,1497,1183604801,6293
+Motion Picture and Sound Recording Industries,512,3902,483,132694333,2834
+Telecommunications,517,114,19,9184875,6744
+"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",518,5911,445,554033397,7811
+"Web Search Portals, Libraries, Archives, and Other Information Services",519,5748,550,487692196,7071
+Finance and Insurance,52,72143,6355,6270488309,7243
+Monetary Authorities-Central Bank,521,77,4,8353871,9012
+Credit Intermediation and Related Activities,522,41657,2419,3527103421,7056
+"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",523,8275,1360,1042338259,10497
+Insurance Carriers and Related Activities,524,21370,2459,1611463387,6284
+"Funds, Trusts, and Other Financial Vehicles",525,764,114,81229371,8860
+Real Estate and Rental and Leasing,53,21943,6252,1227596461,4662
+Real Estate,531,16901,5619,961026074,4739
+Rental and Leasing Services,532,4752,583,250222563,4388
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),533,290,51,16347824,4698
+Professiona.l Scientific & Technical Svc,54,113258,18122,9601505430,7065
+"Professional, Scientific, and Technical Services",541,113258,18122,9601505430,7065
+Management of Companies and Enterprises,55,20928,1029,1926699410,7672
+Management of Companies and Enterprises,551,20928,1029,1926699410,7672
+"Admin., Support, Waste Mgmt, Remediation",56,92314,6906,3837754951,3464
+Administrative and Support Services,561,88263,6588,3617599241,3416
+Waste Management and Remediation Services,562,4051,319,220155710,4529
+Education Services,61,166351,2968,7225438371,3620
+Educational Services,611,48201,1868,1852375992,3203
+Health Care and Social Assistance,62,180222,11829,8784154328,4062
+Ambulatory Health Care Services,621,66946,6842,3658137242,4554
+Hospitals,622,53714,128,3407401272,5286
+Nursing and Residential Care Facilities,623,30213,659,957204177,2640
+Social Assistance,624,29349,4200,761411637,2162
+"Arts, Entertainment, and Recreation",71,27444,1665,800072656,2429
+"Performing Arts, Spectator Sports, and Related Industries",711,4063,643,292227481,5994
+"Museums, Historical Sites, and Similar Institutions",712,3173,96,95861317,2518
+"Amusement, Gambling, and Recreation Industries",713,20208,927,411983858,1699
+Accommodation and Food Services,72,113017,6290,2219814498,1637
+Accommodation,721,17007,836,471699047,2311
+Food Services and Drinking Places,722,96010,5454,1748115451,1517
+Other Services (except Public Admin.),81,40572,6037,1565638726,3216
+Repair and Maintenance,811,16538,2690,759366556,3826
+Personal and Laundry Services,812,13009,2295,371877654,2382
+"Religious, Grantmaking, Civic, Professional, and Similar Organizations",813,11026,1052,434394516,3283
+Public Administration,92,83420,2018,4812378849,4807
+"Executive, Legislative, and Other General Government Support",921,26965,597,1308812930,4045
+"Justice, Public Order, and Safety Activities",922,19004,538,1071597598,4699
+Administration of Human Resource Programs,923,7745,199,402674547,4333
+Administration of Environmental Quality Programs,924,5750,240,352303569,5106
+"Administration of Housing Programs, Urban Planning, and Community Development",925,495,33,25689832,4323
+Administration of Economic Programs,926,7541,374,400413654,4425
+National Security and International Affairs,928,381,10,14038623,3073
+Unclassified establishments,99,19,52,1575326,7001
+Unclassified,999,19,52,1575326,7001
