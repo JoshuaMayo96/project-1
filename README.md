@@ -1,5 +1,7 @@
 Project 1 Written Report:
 
+By: Spencer Duke, Joshua Mayo, Christopher McCormick
+
 In this report, we looked into Utah population data and how Utah's growing population has affected Utah's workforce over the past 5 years. 
 
 Our data source for this report came form Utah's Department of Workforce Services. We pulled two separate sources from this site:
